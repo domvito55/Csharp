@@ -1,0 +1,14 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe.config
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\bin\Debug\AccountsApp.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\bin\Debug\AccountsApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.Properties.Resources.resources
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.GenerateResource.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\bin\Debug\aa\AccountsApp.resources.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.frmAccounts.resources
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\AccountsApp.frmAccounts.aa.resources
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\AccountsApp\AccountsApp\obj\Debug\aa\AccountsApp.resources.dll

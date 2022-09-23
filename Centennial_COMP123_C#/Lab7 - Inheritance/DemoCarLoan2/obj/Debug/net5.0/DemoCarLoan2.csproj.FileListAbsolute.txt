@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\bin\Debug\net5.0\DemoCarLoan2.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\refint\DemoCarLoan2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\DemoCarLoan2.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan2\obj\Debug\net5.0\ref\DemoCarLoan2.dll

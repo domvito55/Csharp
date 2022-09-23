@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\bin\Debug\net5.0\Lab2.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\refint\Lab2.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\Lab2.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Lab2\Lab2\obj\Debug\net5.0\ref\Lab2.dll

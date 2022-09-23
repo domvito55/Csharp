@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\bin\Debug\net5.0\CarDemoApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\refint\CarDemoApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\CarDemoApp.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab4\CarDemoApp\obj\Debug\net5.0\ref\CarDemoApp.dll

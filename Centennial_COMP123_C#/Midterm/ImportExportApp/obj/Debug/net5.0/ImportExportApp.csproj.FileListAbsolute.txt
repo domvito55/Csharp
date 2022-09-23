@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\bin\Debug\net5.0\ImportExportApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\refint\ImportExportApp.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ImportExportApp.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\ImportExportApp\obj\Debug\net5.0\ref\ImportExportApp.dll

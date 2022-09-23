@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\bin\Debug\net5.0\DemoCarLoan.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\refint\DemoCarLoan.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\DemoCarLoan.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab7\DemoCarLoan\obj\Debug\net5.0\ref\DemoCarLoan.dll

@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\bin\Debug\net5.0\SalespersonDemo.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\refint\SalespersonDemo.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\SalespersonDemo.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Labs\Lab8\SalespersonDemo\obj\Debug\net5.0\ref\SalespersonDemo.dll

@@ -1,0 +1,720 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="&gt;&gt;grpTypeOfAccount.Name" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Name" xml:space="preserve">
+    <value>txtInterestRate</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Name" xml:space="preserve">
+    <value>txtDailyWithdrawLimit</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Name" xml:space="preserve">
+    <value>txtBalance</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Name" xml:space="preserve">
+    <value>txtClientName</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Name" xml:space="preserve">
+    <value>txtAccountNumber</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Name" xml:space="preserve">
+    <value>lblInterestRate</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Name" xml:space="preserve">
+    <value>lblDailyWithdrawLimit</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Name" xml:space="preserve">
+    <value>lblBalance</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Name" xml:space="preserve">
+    <value>lblClientName</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Name" xml:space="preserve">
+    <value>lblAccountNumber</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grpAccountDetails.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 20</value>
+  </data>
+  <data name="grpAccountDetails.Size" type="System.Drawing.Size, System.Drawing">
+    <value>710, 340</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="grpAccountDetails.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="grpAccountDetails.Text" xml:space="preserve">
+    <value>Account Details</value>
+  </data>
+  <data name="&gt;&gt;grpAccountDetails.Name" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;grpAccountDetails.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpAccountDetails.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;grpAccountDetails.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblAccountNumber.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblAccountNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>70, 49</value>
+  </data>
+  <data name="lblAccountNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>132, 20</value>
+  </data>
+  <data name="lblAccountNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblAccountNumber.Text" xml:space="preserve">
+    <value>Account Number:</value>
+  </data>
+  <data name="lblAccountNumber.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Name" xml:space="preserve">
+    <value>lblAccountNumber</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblAccountNumber.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lblClientName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblClientName.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblClientName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>103, 100</value>
+  </data>
+  <data name="lblClientName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 20</value>
+  </data>
+  <data name="lblClientName.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblClientName.Text" xml:space="preserve">
+    <value>Client Name:</value>
+  </data>
+  <data name="lblClientName.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Name" xml:space="preserve">
+    <value>lblClientName</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblClientName.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="lblBalance.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblBalance.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblBalance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>131, 162</value>
+  </data>
+  <data name="lblBalance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>71, 20</value>
+  </data>
+  <data name="lblBalance.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblBalance.Text" xml:space="preserve">
+    <value>Balance:</value>
+  </data>
+  <data name="lblBalance.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Name" xml:space="preserve">
+    <value>lblBalance</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblBalance.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 227</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 20</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.Text" xml:space="preserve">
+    <value>Daily Withdraw Limit:</value>
+  </data>
+  <data name="lblDailyWithdrawLimit.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Name" xml:space="preserve">
+    <value>lblDailyWithdrawLimit</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblDailyWithdrawLimit.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="lblInterestRate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblInterestRate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="lblInterestRate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>95, 287</value>
+  </data>
+  <data name="lblInterestRate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>107, 20</value>
+  </data>
+  <data name="lblInterestRate.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="lblInterestRate.Text" xml:space="preserve">
+    <value>Interest Rate:</value>
+  </data>
+  <data name="lblInterestRate.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Name" xml:space="preserve">
+    <value>lblInterestRate</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;lblInterestRate.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="txtAccountNumber.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 49</value>
+  </data>
+  <data name="txtAccountNumber.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="txtAccountNumber.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Name" xml:space="preserve">
+    <value>txtAccountNumber</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtAccountNumber.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="txtClientName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 94</value>
+  </data>
+  <data name="txtClientName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>210, 26</value>
+  </data>
+  <data name="txtClientName.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Name" xml:space="preserve">
+    <value>txtClientName</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtClientName.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="txtBalance.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 156</value>
+  </data>
+  <data name="txtBalance.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="txtBalance.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Name" xml:space="preserve">
+    <value>txtBalance</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtBalance.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="txtDailyWithdrawLimit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 221</value>
+  </data>
+  <data name="txtDailyWithdrawLimit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="txtDailyWithdrawLimit.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Name" xml:space="preserve">
+    <value>txtDailyWithdrawLimit</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtDailyWithdrawLimit.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="txtInterestRate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>208, 281</value>
+  </data>
+  <data name="txtInterestRate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 26</value>
+  </data>
+  <data name="txtInterestRate.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Name" xml:space="preserve">
+    <value>txtInterestRate</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;txtInterestRate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Name" xml:space="preserve">
+    <value>rbtnSavings</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Parent" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Name" xml:space="preserve">
+    <value>rbtnChecking</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Parent" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="grpTypeOfAccount.Location" type="System.Drawing.Point, System.Drawing">
+    <value>469, 49</value>
+  </data>
+  <data name="grpTypeOfAccount.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 100</value>
+  </data>
+  <data name="grpTypeOfAccount.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="grpTypeOfAccount.Text" xml:space="preserve">
+    <value>Type of Account</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.Name" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.Parent" xml:space="preserve">
+    <value>grpAccountDetails</value>
+  </data>
+  <data name="&gt;&gt;grpTypeOfAccount.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="rbtnChecking.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnChecking.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 25</value>
+  </data>
+  <data name="rbtnChecking.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 24</value>
+  </data>
+  <data name="rbtnChecking.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="rbtnChecking.Text" xml:space="preserve">
+    <value>Checking</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Name" xml:space="preserve">
+    <value>rbtnChecking</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.Parent" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;rbtnChecking.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="rbtnSavings.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="rbtnSavings.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="rbtnSavings.Location" type="System.Drawing.Point, System.Drawing">
+    <value>27, 55</value>
+  </data>
+  <data name="rbtnSavings.Size" type="System.Drawing.Size, System.Drawing">
+    <value>90, 24</value>
+  </data>
+  <data name="rbtnSavings.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="rbtnSavings.Text" xml:space="preserve">
+    <value>Savings</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Name" xml:space="preserve">
+    <value>rbtnSavings</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Type" xml:space="preserve">
+    <value>System.Windows.Forms.RadioButton, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.Parent" xml:space="preserve">
+    <value>grpTypeOfAccount</value>
+  </data>
+  <data name="&gt;&gt;rbtnSavings.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnCreateAccount.Location" type="System.Drawing.Point, System.Drawing">
+    <value>519, 366</value>
+  </data>
+  <data name="btnCreateAccount.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 52</value>
+  </data>
+  <data name="btnCreateAccount.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnCreateAccount.Text" xml:space="preserve">
+    <value>Create Account</value>
+  </data>
+  <data name="&gt;&gt;btnCreateAccount.Name" xml:space="preserve">
+    <value>btnCreateAccount</value>
+  </data>
+  <data name="&gt;&gt;btnCreateAccount.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnCreateAccount.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnCreateAccount.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnSearch.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnSearch.Location" type="System.Drawing.Point, System.Drawing">
+    <value>309, 366</value>
+  </data>
+  <data name="btnSearch.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 52</value>
+  </data>
+  <data name="btnSearch.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnSearch.Text" xml:space="preserve">
+    <value>Search</value>
+  </data>
+  <data name="&gt;&gt;btnSearch.Name" xml:space="preserve">
+    <value>btnSearch</value>
+  </data>
+  <data name="&gt;&gt;btnSearch.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSearch.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btnSearch.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>9, 20</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>741, 430</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Accounts</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>frmAccounts</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

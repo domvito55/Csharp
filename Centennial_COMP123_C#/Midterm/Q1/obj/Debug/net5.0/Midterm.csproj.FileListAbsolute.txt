@@ -1,0 +1,16 @@
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.exe
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.deps.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.dev.json
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\bin\Debug\net5.0\Midterm.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.csproj.AssemblyReference.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfoInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfo.cs
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.csproj.CoreCompileInputs.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\refint\Midterm.dll
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.pdb
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\Midterm.genruntimeconfig.cache
+D:\Dropbox\Canada\College\0_Cursos\2_Semestre\COMP123_C#\Midterm\obj\Debug\net5.0\ref\Midterm.dll
